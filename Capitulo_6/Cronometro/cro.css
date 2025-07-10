@@ -1,0 +1,97 @@
+/* === Estilo general === */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* === Contenedor del cronómetro === */
+.cronometro-contenedor {
+    text-align: center;
+}
+
+/* === Título === */
+.cronometro-contenedor h2 {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+    color: #0b4b66;
+}
+
+/* === Display circular del cronómetro === */
+#display {
+    font-size: 2rem;
+    font-weight: 500;
+    color: #333;
+    width: 180px;
+    height: 180px;
+    border: 4px solid #0097a7;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto 25px auto;
+    background-color: white;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* === Contenedor de botones === */
+.controls {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+/* === Estilo base para todos los botones === */
+.controls button {
+    width: 50px;
+    height: 50px;
+    border: none;
+    border-radius: 50%;
+    font-size: 1.4rem;
+    color: white;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+/* === Colores específicos === */
+#iniciar {
+    background-color: #00C38A; /* Verde principal */
+}
+
+#marcartiempo {
+    background-color: #00D9B5; /* Verde claro para marcar tiempo */
+}
+
+#reiniciar {
+    background-color: #007BFF; /* Azul para reiniciar */
+}
+
+/* === Efecto hover para todos === */
+.controls button:hover {
+    transform: scale(1.1);
+}
+
+/* === Lista de tiempos marcados === */
+#marcadetiempo {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+    max-height: 200px;
+    overflow-y: auto;
+}
+
+#marcadetiempo li {
+    background-color: #e0f7fa;
+    margin: 6px auto;
+    padding: 8px 14px;
+    width: fit-content;
+    border-radius: 8px;
+    color: #00796b;
+    font-weight: 500;
+}

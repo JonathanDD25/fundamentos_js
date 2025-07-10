@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Space Invaders</title>
+  <link rel="stylesheet" href="spi.css">
+</head>
+<body>
+  <div id="juego">
+    <img src="nave.png" id="nave">
+  </div>
+  <img src="naveenemiga.png" id="enemigos">
+  <div id="ui">
+    <span id="vidas">Vidas: 3</span>
+    <span id="puntos">Puntos: 0</span>
+  </div>
+  <div id="gameover">
+    <h1>🛑 Game Over</h1>
+    <p>Tu puntuación: <span id="puntaje-final"></span></p>
+    <button onclick="reiniciarJuego()">Reiniciar</button>
+  </div>
+</div>
+
+  <script src="spi.js"></script>
+</body>
+</html>

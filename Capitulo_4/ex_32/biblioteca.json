@@ -1,0 +1,145 @@
+{
+    "biblioteca": [
+        {
+            "titulo": "BioÉtica de la biotecnologia",
+            "editorial": "Fontamara",
+            "edicion": "47: dato creado",
+            "isbn": "955447363",
+            "autores": {
+            "autor principal": "Jóse Salvador Arellano",
+            "autor secundario": "Robert T. Hall",
+            "autor terciario": ""
+            },
+            "codigo sena": ["769544000624"],
+            "descripcion": "Los valores en el desarrollo de biotecnologia: dato creado"
+        },
+
+        {
+            "titulo": "El siglo de la biotecnologia",
+            "editorial": "bolsillo paidós",
+            "edicion": "68: dato creado",
+            "isbn": "95447209",
+            "autores": {
+            "autor principal": "Jeremy Rifkin",
+            "autor secundario": "",
+            "autor terciario": ""
+        },
+            "codigo sena": ["769544000626"],
+            "descripcion": "El comercio genético y el nacimiento de un mundo feliz"
+        }
+        ,
+
+        {
+            "titulo": "La edad de la penumbra",
+            "editorial": "Laurus",
+            "edicion": "14: dato creado",
+            "isbn": "78446552: dato creado",
+            "autores": {
+            "autor principal": "Catherine Nixey",
+            "autor secundario": "",
+            "autor terciario": ""
+        },
+            "codigo sena": ["769544004190"],
+            "descripcion": "Como el cristianismo destruyo el mundo clasico"
+        }
+        ,
+        {
+            "titulo": "Ascenso y caida de adán y eva",
+            "editorial": "Critica",
+            "edicion": "8: dato creado",
+            "isbn": "77452208: dato creado",
+            "autores": {
+            "autor principal": "Stephen Greenblatt",
+            "autor secundario": "",
+            "autor terciario": ""
+        },
+            "codigo sena": ["7695544004236"],
+            "descripcion": "Relato sobre la corta y tragica vida de adan y eva: dato creado"
+        }
+        ,
+        {
+            "titulo": "Instalaciones electricas de baja tension 2003",
+            "editorial": "Dias De Santos",
+            "edicion": "22: dato creado",
+            "isbn": "41452745: dato creado",
+            "autores": {
+            "autor principal": "Antonio López López",
+            "autor secundario": "Luis Manuel Lopez Toro",
+            "autor terciario": "Francisco Javier López Toro"
+        },
+            "codigo sena": ["769544004604"],
+            "descripcion": "Teoria y practicas para la realizacion de proyectos y obras"
+        }
+        ,
+            {
+            "titulo": "Curso de electricidad general 3",
+            "editorial": "Paraninfo",
+            "edicion": "2",
+            "isbn": "95447210",
+            "autores": {
+            "autor principal": "Pablo Alcalde San Miguel",
+            "autor secundario": "",
+            "autor terciario": ""
+        },
+            "codigo sena": ["769544000782"],
+            "descripcion": "Niveles para electricistas tecnicos en formacion profesional: dato creado"
+        }
+        ,
+        {
+            "titulo": "Corriente alterna monofásica y trifásica",
+            "editorial": "Alfaomega, marcombo",
+            "edicion": "",
+            "isbn": "61437274: dato creado",
+            "autores": {
+            "autor principal": "José Miguel Martinez",
+            "autor secundario": "Francisco Javier Cánovas Rodriguez",
+            "autor terciario": "Francisco Asis Ruiz Villa"
+        },
+            "codigo sena": ["769544001891"],
+            "descripcion": "fundamentos de electrotecnia para ingenieros"
+        }
+        ,
+        {
+            "titulo": "Manual de Desarrollo eléctrico de un sistema domótico",
+            "editorial": "CEAI",
+            "edicion": "Convocatoria 001 de 2014 Regional Valle",
+            "isbn": "978-958-15-0209-7",
+            "autores": {
+            "autor principal": "SENNOVA-SENA",
+            "autor secundario": "",
+            "autor terciario": ""
+        },
+            "codigo sena": ["769544002610"],
+            "descripcion": "Sennova aplicando el conocimiento de sus aprendices de manera didactica y creativa: dato creado"
+        }
+        ,
+        {
+            "titulo": "La electricidad y sus aplicaciones",
+            "editorial": "Limusa",
+            "edicion": "24: dato creado",
+            "isbn": "95712217: dato creado",
+            "autores": {
+            "autor principal": "José Roldan Viloria",
+            "autor secundario": "",
+            "autor terciario": ""
+        },
+            "codigo sena": ["769544001581"],
+            "descripcion": "Al alcance de todos"
+        }
+        ,
+        {
+            "titulo": "MF0272_2: Primeros auxilios",
+            "editorial": "ic",
+            "edicion": "67: dato creado",
+            "isbn": "31242781: dato creado",
+            "autores": {
+            "autor principal": "Joaquin Tejero Fernández",
+            "autor secundario": "",
+            "autor terciario": ""
+        },
+            "codigo sena": ["769544004410"],
+            "descripcion": "Acondicionamiento fisico en sala de entrenamiento polivalente"
+        }
+        
+    ]
+}
